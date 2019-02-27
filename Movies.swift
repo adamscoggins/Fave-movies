@@ -2,8 +2,8 @@
 //  Movies.swift
 //  Fave-Movies
 //
-//  Created by Mac Owner on 7/26/16.
-//  Copyright © 2016 Mac Owner. All rights reserved.
+//  Created by Adam Scoggins on 7/26/16.
+//  Copyright © 2016 Adam Scoggins. All rights reserved.
 //
 
 import Foundation
